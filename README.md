@@ -7,7 +7,7 @@ Covid-19 Data Analysis.
 Supply Chain Management Report.
 Zomato Restaurant Analytics Dashboard.
 HR Analytics Dashboard.
-Sales Analytics Dashboard
+Sales Analytics Dashboard.
 Exploratory Data Analysis (EDA).
 Super Store Analytics Dashboard.
 Customer Churn Analysis Dashboard.
