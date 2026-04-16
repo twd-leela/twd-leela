@@ -18,6 +18,6 @@ Telco Customer Churn Analysis.
 Simple Super Store Dashboard.
 Customer Segementation using K-Means clustering.
 ## Connect
-[Email] (mailto:guntuleelakumari14@gmail.com) | [Linkedin](www.linkedin.com/in/guntu-leela-kumari)
+[Email] (mailto:guntuleelakumari14@gmail.com) 
 ---
 **"Turning data into decisions"**
