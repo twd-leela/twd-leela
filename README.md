@@ -1,8 +1,9 @@
-## Hi , I'm Guntu Leela Kumari
-Data Analyst
-
-#### Python, SQL, Excel, Power BI, Tableau
-##### Projects
+# Hi , I'm Guntu Leela Kumari 👋
+** Aspiring Data Analyst** | Hyderabad , India
+Pursed 4-year professional devolpment in data anlaytics. Built 5+ projects. Ready for fresher roles !
+## Skills
+Python | SQL | Power BI | Excel | Tableau 
+## Projects
 Covid-19 Data Analysis.
 Supply Chain Management Report.
 Zomato Restaurant Analytics Dashboard.
@@ -16,3 +17,7 @@ Titanic Survival Data Analysis Dashboard.
 Telco Customer Churn Analysis.
 Simple Super Store Dashboard.
 Customer Segementation using K-Means clustering.
+## Connect
+[Email] (mailto:guntuleelakumari14@gmail.com) | [Linkedin](www.linkedin.com/in/guntu-leela-kumari)
+---
+**"Turning data into decisions"**
