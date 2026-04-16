@@ -19,5 +19,6 @@ Simple Super Store Dashboard.
 Customer Segementation using K-Means clustering.
 ## Connect
 [Email] (mailto:guntuleelakumari14@gmail.com) 
+[LinkedIn] (www.linked.com/in/guntu-leela-kumari)
 ---
 **"Turning data into decisions"**
